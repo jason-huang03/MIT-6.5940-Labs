@@ -8,6 +8,6 @@ This is my implementation of MIT-6.5940 Labs.
 - [x] Lab0
 - [x] Lab1
 - [ ] Lab2
-- [ ] Lab3
+- [x] Lab3
 - [ ] Lab4
 - [ ] Lab5 (x86 arch)
